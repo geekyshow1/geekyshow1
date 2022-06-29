@@ -69,27 +69,13 @@
 
 <h2><i>Let's Connect</i></h2>
 <p align="left" >
-    <a href="https://www.youtube.com/user/GeekyShow1">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
-    </a>
-    <a href="https://twitter.com/Geekyshow1">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Geekyshow1" />
-    </a>
-     <a href="https://linkedin.com/in/irenicraj">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/irenicraj" />
-    </a>
-     <a href="https://www.instagram.com/geekyshow1">
-        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/geekyshow1" />
-    </a>
-     <a href="https://www.facebook.com/GeekyShow">
-        <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/GeekyShow" />
-    </a>
-     <a href="https://www.geekyshows.com">
-        <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="https://www.geekyshows.com" />
-    </a>
-    <a href="#">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
-    </a>
+   <a href="https://twitter.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/irenicraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/GeekyShow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
+  <a href="https://instagram.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/user/GeekyShow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://www.geekyshows.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_wordpress-512.png" alt="geekyshows" height="30" width="30" /></a>
+  <a href="#" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
