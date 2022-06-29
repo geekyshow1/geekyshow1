@@ -82,8 +82,8 @@
      <a href="https://www.facebook.com/GeekyShow">
         <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/GeekyShow" />
     </a>
-     <a href="www.geekyshows.com">
-        <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="www.geekyshows.com" />
+     <a href="https://www.geekyshows.com">
+        <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="https://www.geekyshows.com" />
     </a>
     <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
