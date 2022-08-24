@@ -1,4 +1,4 @@
-<!----------------------------------- Banner - GeekyShows ------------------------------------>
+<!----------------------------------- Banner  OF- GeekyShows ------------------------------------>
 [![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
@@ -7,7 +7,7 @@
   <a href="https://github.com/geekyshow1?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
   </a>
-  <h3>Hi, I'm Rajesh Kumar</h3>
+  <h3>Hi, I Am Rajesh Kumar </h3>
   <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
     <a href="https://www.youtube.com/user/GeekyShow1">
         <img align="center" src="https://img.shields.io/badge/GeekyShows Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
