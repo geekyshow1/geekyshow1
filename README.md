@@ -1,4 +1,4 @@
-<!----------------------------------- Banner - GeekyShows ------------------------------------>
+<!----------------------------------- Banner  OF- GeekyShows ------------------------------------>
 [![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
