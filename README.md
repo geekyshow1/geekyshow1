@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
     <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="material-design" />
     <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
@@ -75,7 +76,7 @@
   <a href="https://instagram.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekyshow1" height="30" width="40" /></a>
   <a href="https://www.youtube.com/user/GeekyShow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekyshow1" height="30" width="40" /></a>
   <a href="https://www.geekyshows.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_wordpress-512.png" alt="geekyshows" height="30" width="30" /></a>
-  <a href="#" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
+  <a href="therajeshkumar.com" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
